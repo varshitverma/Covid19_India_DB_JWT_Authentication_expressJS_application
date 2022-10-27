@@ -1,4 +1,4 @@
-# Covid-19 India Portal
+# Covid-19 India Portal With Authentication
 
 Given two files `app.js` and a database file `covid19IndiaPortal.db` consisting of three tables `state`, `district` and `user`.
 
